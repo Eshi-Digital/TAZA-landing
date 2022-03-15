@@ -1,0 +1,7 @@
+@media screen and (max-width: 768px) {
+  .navbar-icon {
+    float: left;
+    position: absolute;
+    margin-top: 15vh;
+  }
+}
